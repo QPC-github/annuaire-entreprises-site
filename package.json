@@ -38,7 +38,7 @@
     "@types/ua-parser-js": "~0.7.36",
     "abort-controller": "~3.0.0",
     "autoprefixer": "~10.4.13",
-    "axios": "~1.2.1",
+    "axios": "~1.6.0",
     "axios-cache-interceptor": "~0.10.7",
     "axios-oauth-client": "~2.0.2",
     "axios-token-interceptor": "~0.2.0",
